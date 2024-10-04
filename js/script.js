@@ -1,6 +1,6 @@
 const users = [
-  { username: "user1", password: "password1" },
-  { username: "user2", password: "password2" },
+  { username: "user1", password: "passworda" },
+  { username: "user2", password: "passwordb" },
 ];
 
 document.addEventListener("DOMContentLoaded", function () {
